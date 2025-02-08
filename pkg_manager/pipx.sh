@@ -4,7 +4,6 @@
 # Com o pipx, você pode instalar aplicativos Python globalmente, mas cada um deles roda em seu 
 #próprio ambiente virtual, evitando conflitos entre pacotes e versões.
 
-
 # Instalação do pipx
 pip install pipx
 

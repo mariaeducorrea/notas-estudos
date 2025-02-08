@@ -1,0 +1,91 @@
+ 
+**********ATALHOS ESSENCIAIS**********
+
+| CTRL + A | Selecionar tudo |
+| --- | --- |
+| CTRL + C | Copiar itens para a área de transferência |
+| CTRL + X | Recortar itens para a área de transferência |
+| CTRL + V  | Colar itens da área de transferência |
+| CTRL + Z | Desfazer ação |
+| CTRL + Y | Refazer ação |
+| ALT + F4 | Fechar janela atual (se nenhuma estiver aberta, exibe opções de desligamento) |
+| CTRL + D ou Delete | Deletar itens selecionados |
+| Shift + Delete | Excluir itens permanentemente |
+| F2 | Renomear item selecionado |
+| Esc | Cancelar ação |
+| ALT + Tab | Alternar entre janelas |
+| PrtScn | Salvar uma captura de tela na área de transferência |
+| Tecla Windows + I | Abre as configurações do sistema |
+| Tecla Windows + E | Abre o Explorador de Arquivos |
+| Tecla Windows + A | Abre a Central de Ações |
+| Tecla Windows + V | Abre o histórico da área de transferência |
+| Tecla Windows + Shift + S | Permite capturar parte da tela utilizando a Ferramenta de Captura |
+| Tecla Windows + PrtScn | Captura e salva a tela automaticamente na pasta Capturas de Tela |
+| Tecla Windows  + i  | Logoff |
+
+
+
+**********ATALHOS DO EXPLORADOR DE ARQUIVOS**********
+
+| CTRL + N | Abre uma nova janela |
+| --- | --- |
+| CTRL + W | Fecha a janela atual |
+| CTRL + F | Abra a área de busca |
+| CTRL + scroll do mouse | Muda a visualização do arquivo/pasta |
+| CTRL + Shift + N | Cria uma nova pasta |
+| ALT + Enter | Abre a janela de propriedades do arquivo selecionado |
+| F11 | Alterna para o modo de tela cheia |
+| F5 | Atualiza a página |
+| Home | Volta para o início da tela |
+| End | Desliza para o final da tela |
+| ALT + seta direita | Visualiza a próxima pasta |
+| ALT + seta esquerda | Visualiza a pasta anterior |
+
+
+
+**********ATALHOS DO PROPRIO PC**********
+
+| Tecla Windows | Abre o menu Iniciar |
+| --- | --- |
+| CTRL + seta para cima/baixo | Altera o tamanho do menu Iniciar |
+| CTRL + Shift + ESC | Abre o Gerenciador de Tarefas |
+| CTRL + ALT + Tab | Visualiza todos os programas abertos |
+| CTRL + setas + espaço | Seleciona múltiplos arquivos |
+| ALT + Tab | Alterna entre programas abertos |
+| PageUp | Move a tela para cima |
+| PageDown | Move a tela para baixo |
+| ALT + ESC | Transita entre as janelas abertas |
+| CTRL + Shift + clique no ícone | Executa o programa como administrador (a partir da Barra de Tarefas) |
+| Shift + clique com botão direito no ícone | Exibe o menu do programa (a partir da Barra de Tarefas) |
+| CTRL + seta para esquerda | Move o cursor para o início da palavra (funciona em editores e caixas de texto) |
+| CTRL + seta para direita | Move o cursor para o final da palavra (funciona em editores e caixas de texto) |
+| CTRL + seta para cima | Move o cursor para o início do parágrafo (funciona em editores e caixas de texto) |
+| CTRL + seta para baixo | Move o cursor para o final do parágrafo (funciona em editores e caixas de texto) |
+| CTRL + Shift + seta para cima/baixo | Seleciona todo o parágrafo |
+| CTRL + ALT + seta para direita | Gira a tela em 90 graus (pode não funcionar em todos os PCs) |
+| CTRL + ALT + seta para baixo | Gira a tela em 180 graus (pode não funcionar em todos os PCs) |
+| CTRL + ALT + seta para esquerda | Gira a tela em 270 graus (pode não funcionar em todos os PCs) |
+| CTRL + ALT + seta para cima | Retorna a rotação vertical da tela |
+
+
+**********ATALHOS COM TECLA WINDOWS**********
+
+| Tecla Windows + S | Abre o menu de busca do sistema |
+| --- | --- |
+| Tecla Windows + D | Exibe/oculta o desktop |
+| Tecla Windows + L | Bloqueia o PC |
+| Tecla Windows + M | Minimiza todas as janelas abertas |
+| Tecla Windows + C | Abra a Cortana (assistente virtual) |
+| Tecla Windows + G | Abre o Xbox Game Bar |
+| Tecla Windows + ALT + R | Inicia uma gravação de tela |
+| Tecla Windows + T | Alterna entre programas da Barra de Tarefas |
+| Tecla Windows + R | Abre o Executar |
+| Tecla Windows + X | Abre o menu de Acesso Rápido |
+| Tecla Windows + P | Abre o menu Projetar |
+| Tecla Windows + sinal de mais | Aumenta o zoom da tela com a Lupa |
+| Tecla Windows + sinal de menos | Diminui o zoom da tela com a Lupa |
+| Tecla Windows + ESC | Fecha a Lupa |
+| Tecla Windows + seta para cima | Maximizar |
+| Tecla Windows + seta para baixo | Minimizar |
+| Tecla Windows + seta para esquerda | Ajusta a janela atual para a metade esquerda da tela |
+| Tecla Windows + seta para direita | Ajusta a janela atual para a metade direita da tela |
